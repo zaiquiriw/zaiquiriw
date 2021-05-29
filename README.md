@@ -1,4 +1,4 @@
-### Howdy 👋
+### Howdy 👋🤠⌨
 - 🔭 I’m currently working on learning how to create fun documentation in emacs!
 - 🌱 I’m currently learning how to actually make a website
 - 👯 I’m looking to collaborate on keyboard designs! I want a gruvbox keyboard
