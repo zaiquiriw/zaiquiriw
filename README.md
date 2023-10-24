@@ -1,2 +1,2 @@
 # Howdy 👋🤠⌨
-I am a CS Major of the University of Texas at Dallas specializing into using Machine Learning on the Edge to create smart home devices capable of disconnecting from the cloud once trained with the proper dataset. It's just a dream for now as I learn the prequisite skills, so for now, I hope I can have a falshy website or mod on here.
+After graduating from UTD and living in the real (non-college) world for a couple months, I'm returning to the world of software! AI has only been getting better, and so has my interest in custom keyboard hardware. Here I'll be posting my portfolio of data science work, storing my keyboard configs, and hopefully any other fun projects I'll be working on. I'm ready fo experience in the cyberverse!
