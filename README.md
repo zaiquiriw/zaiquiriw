@@ -1,2 +1,2 @@
 # Howdy 👋🤠⌨
-After graduating from UTD and living in the real (non-college) world for a couple months, I'm returning to the world of software! AI has only been getting better, and so has my interest in custom keyboard hardware. Here I'll be posting my portfolio of data science work, storing my keyboard configs, and hopefully any other fun projects I'll be working on. I'm ready fo experience in the cyberverse!
+Working on Atheneum Common!
